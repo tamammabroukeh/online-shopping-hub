@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/online-shopping-hub/static/css/main.a1f86e94.css",
+    "main.js": "/online-shopping-hub/static/js/main.9c1fc458.js",
+    "static/js/787.ba4050b7.chunk.js": "/online-shopping-hub/static/js/787.ba4050b7.chunk.js",
+    "static/media/slider-img-3.png": "/online-shopping-hub/static/media/slider-img-3.01fbbf06467ad2079734.png",
+    "static/media/slider-img-2.png": "/online-shopping-hub/static/media/slider-img-2.2eedc5a58f1ce73d5b0a.png",
+    "static/media/slider-img-1.png": "/online-shopping-hub/static/media/slider-img-1.b7a307d15eedd0ac5c20.png",
+    "static/media/error.png": "/online-shopping-hub/static/media/error.923fd4a571feb41f1f1f.png",
+    "index.html": "/online-shopping-hub/index.html",
+    "static/media/spinner.svg": "/online-shopping-hub/static/media/spinner.2498f9d3fee61f4ded35bedf651dc405.svg",
+    "main.a1f86e94.css.map": "/online-shopping-hub/static/css/main.a1f86e94.css.map",
+    "main.9c1fc458.js.map": "/online-shopping-hub/static/js/main.9c1fc458.js.map",
+    "787.ba4050b7.chunk.js.map": "/online-shopping-hub/static/js/787.ba4050b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1f86e94.css",
+    "static/js/main.9c1fc458.js"
+  ]
+}
